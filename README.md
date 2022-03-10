@@ -9,4 +9,5 @@ En l'état, la solution contient:
 - Un projet de Console Sudoku.Benchmark pour tester des solvers de Sudoku. Il suffit de lui faire référencer un projet cible pour permettre de tester les solvers qu'il contient.
 - Un projet d'exemple de solver Sudoku.Z3Solvers qui illustre comment implémenter des solvers de Sudoku à l'aide de la librairie z3, en c# ou en Python via Python.Net. 
 
+
 Les groupes sont invités à àjouter à la solution leur propre projet de Console référençant d'une part les projets et librairies nécessaires à la résolution de Sudoku, et utilisant d'autre part l'environnement Spark.Net étudié en cours pour une résolution distribuée d'un dataset de Sudokus.
