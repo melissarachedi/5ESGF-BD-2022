@@ -1,0 +1,18 @@
+Sujet choisi :
+Résolution par les techniques humaines habituelles 
+
+Groupe :
+Melissa RACHEDI
+Thi Thanh Tam TRAN
+Rosaly-Fiestane-Denysia OGANDAGA-ABAGA
+
+
+Pour réaliser notre TP, nous avons utiliser  la méthode de résolution de sudoku par les techniques humaines habituelles.
+Cette méthodes de résolution est semblable à celle d’un être humain qui résout un sudoku. Pour pouvoir placer un chiffre :
+-vérifier qu’il n’est pas présent sur la ligne ;
+-vérifier qu’il n’est pas présent sur la colonne ;
+-vérifier qu’il n’est pas présent sur la matrice 3x3.
+
+Nous n’avons pas réutilisé de code et de code basé sur spark.Net
+Répartition des taches pour comprendre le sujet. Deux environnements Spark étaient disponibles. Nous avons mis en place des séances de travail pour traiter notre sujet.
+Par la suite nous avons trouvé un projet similaire à notre projet et nous l'avons réadapté au sujet. 
