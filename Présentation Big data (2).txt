@@ -15,4 +15,5 @@ Cette méthodes de résolution est semblable à celle d’un être humain qui r�
 
 Nous n’avons pas réutilisé de code et de code basé sur spark.Net
 Répartition des taches pour comprendre le sujet. Deux environnements Spark étaient disponibles. Nous avons mis en place des séances de travail pour traiter notre sujet.
+toutefois, nous avons rencontré enormement de bug et n'avons pas réussi à débugger les solver qui etaient à notre disposition.
 Par la suite nous avons trouvé un projet similaire à notre projet et nous l'avons réadapté au sujet. 
